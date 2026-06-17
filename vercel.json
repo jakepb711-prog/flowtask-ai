@@ -1,8 +1,1 @@
-{
-  "buildCommand": "npm install && npm run client:build",
-  "outputDirectory": "dist",
-  "env": [
-    "ANTHROPIC_API_KEY"
-  ],
-  "nodejs": "20.x"
-}
+{}
